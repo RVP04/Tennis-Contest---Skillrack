@@ -1,6 +1,4 @@
-# Tennis-Contest---Skillrack
-
- <h3 style="color:#003333">Tennis Contest</h3>
+# Tennis-Contest
 <br> <p>A Tennis contest was scheduled in a college. N number of players registered to participate in&nbsp;this contest. (A player is the winner if he wins in all the rounds of the contest. Every round has elimination. Thus, one-half of the players are eliminated in each round. For example, If P number of players were in a specific round, then P/2 players win and move to the next round). The number of players N and the players details (ID and Name) are given as input. The program should print the names of the players who were defeated by the winner of the contest from final round to the first round.</p>
 
 <p>Note : Total number of players N will always be a power of 2 and N &gt;= 2.</p>
